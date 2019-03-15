@@ -57,6 +57,7 @@ Your QR Code has been saved as a PNG file path:
 
 Welcome to visit:https://teddysun.com/486.html
 Enjoy it!
+
 ### 卸载方法
 
 若已安装多个版本，则卸载时也需多次运行（每次卸载一种）
