@@ -1,4 +1,4 @@
-CentOS7关闭防火墙（Firewalld ），使用防火墙（iptables）
+#CentOS7关闭防火墙（Firewalld ），使用防火墙（iptables）
 
 ##1、直接关闭防火墙
 
